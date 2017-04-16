@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+/.vs/HardCash-Fork/v15/Browse.VC.db
+/.vs/HardCash-Fork/v15/Browse.VC.opendb
+*.db
+*.opendb
