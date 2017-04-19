@@ -2,7 +2,7 @@
 
 What the internet of today probably lacks is trust for thing that exsist in the internet. Best way a human being can feel and judge a product is to see it, touch it & most importantly feel it. Since such ways over internet are yet to be successfully deployed, next big trust is build up if poeple share their own views about products whcih we can only see in the internet. 
 
-`
+`bash
 We a propose a peer to peer review system which can be used as a platform to judge things that exist in the internet and will allow people
 to share their honest thoughts abot a product yet remain anaomymous (if one chooses to be). 
 Peer to peer review system works by puting transactions (in the form of upvotes, review rank updation, product ranking improvements etc) 
