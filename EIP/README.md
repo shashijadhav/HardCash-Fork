@@ -1,7 +1,1 @@
-# Please start suggesting.
-
-## To write code :
- 
-### Usage  ```bash (or what the specific language is) [] ```
-```bash 
- sudo apt-get update 
+## It is a crazy amalgamation of three distinct ideas that emerge out of our keen interest in exsisting technologies.
