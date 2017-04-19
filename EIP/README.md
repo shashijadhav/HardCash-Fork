@@ -23,3 +23,24 @@ trade by putting in an ICO. Supported by a whitepaper along with a roadmap which
 framework, ReviewRanking, ProductCitations and lots more. End effect is to incentivise the reviewer to write a good review and bring out 
 the best product based on ProductCitations algorithm. 
 
+#### Sandeep : 
+`Bussiness Model. How do we earn the money?
+ How much to mine?
+ How to improve reviewing system? More incentives if possible?`
+ 
+#### Shibayan  :
+`How to approach exchanges for ICO?
+ How ICOs are raised?
+ Any suitable niche?
+ How can we better market it?`
+  
+#### Sumit  :
+`How to do it technically?
+ Timeline?
+ Technical feasibility?
+ Techstack improvements?`
+
+  
+
+
+
