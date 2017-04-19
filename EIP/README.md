@@ -1,4 +1,4 @@
-### It is a crazy amalgamation of three distinct ideas that emerge out of our keen interest in exsisting technologies. Our interest for internet dates back to when we could only send emails to friends and see photos of stuff.
+#### It is a crazy amalgamation of three distinct ideas that emerge out of our keen interest in exsisting technologies. Our interest for internet dates back to when we could only send emails to friends and see photos of stuff.
 
 What the internet of today probably lacks is trust for thing that exsist in the internet. Best way a human being can feel and judge a product is to see it, touch it & most importantly feel it. Since such ways over internet are yet to be successfully deployed, next big trust is build up if poeple share their own views about products whcih we can only see in the internet. 
 
@@ -16,4 +16,10 @@ discovered by the network which runs a contract to establish a PoC on the block 
 We ask `What will make a review write a review? Or Why will someone write a review?`.
 Simple, incentives, which will become high enough taht he can live his life reviewing products. He/She writes good reviews which gets
 a upvotes or is cited anywhere else helps to earn incentives.
+
+#### What we will do?
+We will make a platform for writing reviews and upvoting products. Incentives are gained in the form of a coin which we propoe to bring in 
+trade by putting in an ICO. Supported by a whitepaper along with a roadmap which explains completely the extexts, methods, technical
+framework, ReviewRanking, ProductCitations and lots more. End effect is to incentivise the reviewer to write a good review and bring out 
+the best product based on ProductCitations algorithm. 
 
