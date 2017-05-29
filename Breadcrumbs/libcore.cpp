@@ -9,10 +9,15 @@
 #include <ctype.h>
 #include <string.h>
 #include <time.h>
-#include <openssl/sha.h>
+#include "libhash.h"
+#include <vector>
+#include "crypto++/cryptlib.h"
+#include "crypto++/sha.h"
+#include "crypto++/sha.cpp"
+#include "crypto++/hex.h"
 
 
-class ConsensusPublicTransactionLedger{
+typedef class ConsensusPublicTransactionLedger{
 	public : 
 		uint64_t UnspentBitcoins;
 		bool isUnspentUTXO = true;
@@ -26,6 +31,16 @@ class ConsensusPublicTransactionLedger{
 		char *RestartNode();
 		int *ReturntorelayNode();
 } BitcoinUTXO;
+
+BitcoinUTXO *freeBitcoins(){
+     fprintf(stderr, "%s\n", "bbcoin");
+}
+
+typedef class GeneralByzentineBlockchain{
+	public:
+		std::vector<GeneralByzentineBlockchain> bytevector;
+		std::vector<uint64_t> *timestamp;     
+} bblockchain;
 
 const uint64_t COIN = 10000000000;
 const uint64_t CENT = 100000000;
